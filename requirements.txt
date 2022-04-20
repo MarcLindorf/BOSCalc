@@ -7,4 +7,4 @@ Ipython.display
 sys
 threading
 time
-_thread
+thread
