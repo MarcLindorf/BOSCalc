@@ -5,6 +5,3 @@ math
 cmath
 Ipython.display
 sys
-threading
-time
-thread
