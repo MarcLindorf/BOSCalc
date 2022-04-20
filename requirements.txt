@@ -1,0 +1,10 @@
+numpy
+ipywidgets
+nbinteract
+math
+cmath
+Ipython.display
+sys
+threading
+time
+_thread
